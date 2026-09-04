@@ -1,5 +1,8 @@
 # 📌 SupplyLine - API
 
+- Criação de uma solução fundamentada em Pesquisa Operacional voltada à otimização do planejamento das equipes de fiscalização do IPEM-SP, com base no histórico de inspeções realizadas na regional de São José dos Campos.
+
+- A iniciativa tem como foco reduzir os deslocamentos e o tempo total de viagem, promover um equilíbrio na distribuição da carga de trabalho entre as equipes e contribuir para um planejamento operacional mais eficiente, possibilitando o confronto entre o cenário praticado historicamente e um cenário otimizado.
 
 
 ---
