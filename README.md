@@ -71,7 +71,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
-![Trello]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoCvU4BWi2iqIC95z6oZ1iRJ3_JJNUit_ckRUi7FT7twu1-rOxiBIJ1c&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEu3EcG40PDswrGyzmzNffwlCs_0f5KeKLkcL_EM00yg&s=10))
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
 ![Google_Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
