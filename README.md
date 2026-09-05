@@ -100,7 +100,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 |Video              | 04/09/2026 | Finalizado | [Video](https://www.youtube.com/watch?v=m59A55OO_z8) |
-| 01                | 00/00/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 02/10/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp1.md)  |
+| 02                | 30/10/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp2.md)  |
+| 03                | 27/11/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
