@@ -25,8 +25,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+|1     |Eu, como analista de fiscalização, quero ver no mapa os locais das fiscalizações já realizadas, para entender a distribuição geográfica da operação atual                                               |Alta      |8         |
+|1     |Eu, como analista de fiscalização, quero ver indicadores básicos (nº de fiscalizações, km percorridos, tempo médio) no dashboard, para ter uma visão geral da eficiência da operação                    |Alta      |5         |
+|1     |Eu, como analista de fiscalização, quero filtrar o mapa e os indicadores por município e tipo de fiscalização, para identificar onde está concentrada a demanda                                         |Média     |3         |
+|1     |Eu, como usuário, quero ver um tooltip com detalhes (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa, para inspecionar uma fiscalização sem sair da visão geral                            |Baixa     |3         |
+|1     |Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho      
 
 ---
 
