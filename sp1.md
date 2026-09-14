@@ -1,7 +1,7 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-  -> Este MVP centraliza as principais informações de como as equipes estão atuando. Pautado em métricas fundamentais, é possível mapear de modo panorâmico a presente situação das equipes de fiscalização. Assim, o MVP propicia a gestão e o planejamento de soluções viáveis.
+  > Este MVP centraliza as principais informações de como as equipes estão atuando. Pautado em métricas fundamentais, é possível mapear de modo panorâmico a presente situação das equipes de fiscalização. Assim, o MVP propicia a gestão e o planejamento de soluções viáveis.
 
 ---
 
