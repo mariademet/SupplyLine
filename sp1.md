@@ -17,8 +17,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Usuário:** persona que rege a acessibilidade e funcionalidades gerais do software, pensando na interface 
+- **Analista de fiscalização:** focado nos resultados das operações, eficiência de fiscalizações, precisando ter um panorama da produtividade
+- **Gestor de equipes:** pensa no manejo de pessoas, precisa entender a distribuição das equipes e facilitar sua gestão
 
 ---
 
