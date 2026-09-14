@@ -25,12 +25,14 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-|1     |Eu, como analista de fiscalização, quero ver no mapa os locais das fiscalizações já realizadas, para entender a distribuição geográfica da operação atual                                               |Alta      |8         |
-|1     |Eu, como analista de fiscalização, quero ver indicadores básicos (nº de fiscalizações, km percorridos, tempo médio) no dashboard, para ter uma visão geral da eficiência da operação                    |Alta      |5         |
-|1     |Eu, como analista de fiscalização, quero filtrar o mapa e os indicadores por município e tipo de fiscalização, para identificar onde está concentrada a demanda                                         |Média     |3         |
-|1     |Eu, como usuário, quero ver um tooltip com detalhes (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa, para inspecionar uma fiscalização sem sair da visão geral                            |Baixa     |3         |
-|1     |Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho                                                                                  |Baixa     |2         | 
-
+|3     |Eu, como analista de fiscalização, quero comparar lado a lado os indicadores do cenário real e do otimizado, para quantificar os ganhos de eficiência conquistados pelo modelo                          |Alta      |8         |
+|3     |Eu, como analista de fiscalização, quero ver o conjunto completo de indicadores de desempenho no dashboard, para acompanhar a eficiência da operação de forma abrangente                                |Alta      |5         |
+|3     |Eu, como gestor de equipes, quero exportar relatórios com mapas, indicadores e comparativos, para compartilhar os resultados do planejamento das equipes com a diretoria do IPEM                        |Alta      |5         |
+|3     |Eu, como gestor de equipes, quero refinar a simulação de cenários permitindo ajustar mais parâmetros (restrições de equipe, prioridade de município), para ter mais flexibilidade ao planejar a alocação|Média     |8         |
+|3     |Eu, como usuário, quero ver um resumo automático em texto destacando os principais insights do período selecionado, para entender rapidamente o que mudou sem ler todos os gráficos                     |Baixa     |5         |
+|3     |Eu, como usuário, quero um modo de apresentação em tela cheia, para ter uma experiência mais imersiva ao navegar pelo dashboard                                                                         |Baixa     |2         |
+|3     |Eu, como usuário, quero receber alertas visuais (cor/ícone) quando algum indicador sair da faixa esperada, para identificar problemas de forma rápida e intuitiva                                       |Baixa     |3         |
+|3     |Eu, como usuário, quero exportar um "snapshot" (imagem) do dashboard com um clique, para compartilhar rapidamente por e-mail ou WhatsApp                                                                |Baixa     |3         |
 ---
 
 ## 📅 Sprint(s) Relacionadas
