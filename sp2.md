@@ -1,6 +1,6 @@
 # 📌 MVP - [Nome do Projeto]
 
-## 🎯 Objetivo do MVP
+## 🎯 [Objetivo do MVP]
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
 - Qual hipótese será validada?  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📝 Descrição da Solução
+## 📝 [Descrição da Solução]
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
@@ -33,7 +33,7 @@
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 📅 [Sprint(s) Relacionadas]
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Funcionalidade X, Y]                        | Concluído|
@@ -41,14 +41,14 @@
 
 ---
 
-## 📊 Critérios de Aceitação
+## 📊 [Critérios de Aceitação]
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
-## 📈 Métricas de Validação
+## 📈 [Métricas de Validação]
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
