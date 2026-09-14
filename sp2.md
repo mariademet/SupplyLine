@@ -25,11 +25,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-|1     |Eu, como analista de fiscalização, quero ver no mapa os locais das fiscalizações já realizadas, para entender a distribuição geográfica da operação atual                                               |Alta      |8         |
-|1     |Eu, como analista de fiscalização, quero ver indicadores básicos (nº de fiscalizações, km percorridos, tempo médio) no dashboard, para ter uma visão geral da eficiência da operação                    |Alta      |5         |
-|1     |Eu, como analista de fiscalização, quero filtrar o mapa e os indicadores por município e tipo de fiscalização, para identificar onde está concentrada a demanda                                         |Média     |3         |
-|1     |Eu, como usuário, quero ver um tooltip com detalhes (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa, para inspecionar uma fiscalização sem sair da visão geral                            |Baixa     |3         |
-|1     |Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho                                                                                  |Baixa     |2         | 
+|2     |Eu, como gestor de equipes, quero ver as rotas históricas e as rotas otimizadas lado a lado no mapa, para planejar melhor a alocação das equipes nos próximos ciclos                                    |Alta      |20        |
+|2     |Eu, como gestor de equipes, quero ver como a carga de trabalho ficaria distribuída entre as equipes no cenário otimizado, para avaliar se a divisão está equilibrada                                    |Alta      |8         |
+|2     |Eu, como gestor de equipes, quero simular um cenário alterando parâmetros simples (ex: nº de equipes), para testar diferentes formas de alocar minha equipe                                             |Alta      |8         |
+|2     |Eu, como usuário, quero salvar atalhos (bookmarks) para as visões mais usadas do dashboard, para navegar mais rápido entre análises                                                                     |Baixa     |3         |
+|2     |Eu, como usuário, quero ver uma transição animada ao alternar entre rota histórica e rota otimizada no mapa, para perceber mais claramente a diferença entre as duas                                    |Baixa     |2         |
 
 ---
 
