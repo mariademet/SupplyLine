@@ -1,10 +1,7 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+  -> Este MVP centraliza as principais informações de como as equipes estão atuando. Pautado em métricas fundamentais, é possível mapear de modo panorâmico a presente situação das equipes de fiscalização. Assim, o MVP propicia a gestão e o planejamento de soluções viáveis.
 
 ---
 
