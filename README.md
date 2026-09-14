@@ -117,6 +117,6 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |-------------------|------------|----------|-----------|
 |Video              | 04/09/2026 | Finalizado | [Video](https://youtu.be/XIQllwX4k84?si=aDG3gPPDQQrrzAhj) |
 | 01                | 02/10/2026 | a fazer  | [MVP](https://github.com/mariademet/SupplyLine/blob/main/sp1.md) |
-| 02                | 30/10/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp2.md)  |
+| 02                | 30/10/2026 | a fazer  | [MVP](https://github.com/mariademet/SupplyLine/blob/main/sp2.md)  |
 | 03                | 27/11/2026 | a fazer  | [MVP](https://github.com/SafeFlow-1-0/API-Log2/blob/main/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
