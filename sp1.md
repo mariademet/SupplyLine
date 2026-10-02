@@ -86,6 +86,10 @@ O MVP (Sprint 1) consiste em um **dashboard geográfico de fiscalizações**, qu
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+- Prints de tela
+<img width="1378" height="765" alt="image" src="https://github.com/user-attachments/assets/3d3753fe-07cd-45a1-8454-43038fc9da9c" />
+<img width="1357" height="763" alt="image" src="https://github.com/user-attachments/assets/e975f867-0162-42e1-a7c7-8a0b21a152c0" />
+
+  
 - Fluxos ou protótipos  
 - Vídeo (MVP)
