@@ -88,7 +88,6 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |1     |Eu, como analista de fiscalização, quero ver indicadores básicos (nº de fiscalizações, tempo médio) no dashboard, para ter uma visão geral da eficiência da operação                    |Alta      |5         |
 |1     |Eu, como analista de fiscalização, quero filtrar o mapa e os indicadores por município e tipo de fiscalização, para identificar onde está concentrada a demanda                                         |Média     |3         |
 |1     |Eu, como usuário, quero ver um tooltip com detalhes (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa, para inspecionar uma fiscalização sem sair da visão geral                            |Baixa     |3         |
-|1     |Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho                                                                                  |Baixa     |2         |
 |2     |Eu, como gestor de equipes, quero ver as rotas históricas e as rotas otimizadas lado a lado no mapa, para planejar melhor a alocação das equipes nos próximos ciclos                                    |Alta      |20        |
 |2     |Eu, como gestor de equipes, quero ver como a carga de trabalho ficaria distribuída entre as equipes no cenário otimizado, para avaliar se a divisão está equilibrada                                    |Alta      |8         |
 |2     |Eu, como gestor de equipes, quero simular um cenário alterando parâmetros simples (ex: nº de equipes), para testar diferentes formas de alocar minha equipe                                             |Alta      |8         |
@@ -102,6 +101,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |3     |Eu, como usuário, quero um modo de apresentação em tela cheia, para ter uma experiência mais imersiva ao navegar pelo dashboard                                                                         |Baixa     |2         |
 |3     |Eu, como usuário, quero receber alertas visuais (cor/ícone) quando algum indicador sair da faixa esperada, para identificar problemas de forma rápida e intuitiva                                       |Baixa     |3         |
 |3     |Eu, como usuário, quero exportar um "snapshot" (imagem) do dashboard com um clique, para compartilhar rapidamente por e-mail ou WhatsApp                                                                |Baixa     |3         |
+|3     | Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho                                                                                 | Baixa      | 2          |
 
 
 ---
