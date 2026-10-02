@@ -46,7 +46,7 @@ O MVP (Sprint 1) consiste em um **dashboard geográfico de fiscalizações**, qu
 | 2   | 1      | Eu, como analista de fiscalização, quero ver indicadores básicos (nº de fiscalizações, tempo médio) no dashboard, para ter uma visão geral da eficiência da operação                  | Alta       | 5          |
 | 3   | 1      | Eu, como analista de fiscalização, quero filtrar o mapa e os indicadores por município e tipo de fiscalização, para identificar onde está concentrada a demanda                                       | Média      | 3          |
 | 4   | 1      | Eu, como usuário, quero ver um tooltip com detalhes (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa, para inspecionar uma fiscalização sem sair da visão geral                          | Baixa      | 3          |
-| 5   | 1      | Eu, como usuário, quero alternar entre tema claro e escuro no dashboard, para usar em diferentes ambientes de trabalho                                                                                 | Baixa      | 2          |
+
 
 
 > **Observação:** o MVP em si corresponde apenas às histórias da Sprint 1 (IDs 1–5); as demais (Sprints 2 e 3) compõem a evolução planejada do produto e sustentam as limitações listadas na seção de Descrição da Solução.
