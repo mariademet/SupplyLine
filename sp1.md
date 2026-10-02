@@ -15,7 +15,6 @@ O MVP (Sprint 1) consiste em um **dashboard geográfico de fiscalizações**, qu
   - Dashboard com indicadores básicos (nº de fiscalizações, km percorridos, tempo médio)
   - Filtros por município e tipo de fiscalização
   - Tooltip com detalhes da fiscalização (data, tipo, equipe) ao passar o mouse sobre um ponto do mapa
-  - Alternância entre tema claro e escuro
 
 - **Limitações conhecidas (nesta etapa, já previstas para as próximas sprints):**
   - Não inclui rotas otimizadas nem comparação entre rota histórica e otimizada no mapa — previsto para a **Sprint 2**
