@@ -5,7 +5,24 @@
  
 ---
 
-## 🎯 Desenvolvimento de Cada Membro da Equipe
+## 👥 Desenvolvimento de Cada Membro da Equipe
+- **FELIPE MACHADO - PRODUCT ONWER**
+  - Tooltip com detalhes
+  - Mapas de Fiscalizações
+    
+- **CAUÃ KADSON - TEAM MEMBER**
+  - Mapas de Fiscalizações
+    
+- **GEOVANNA PIMENTEL - TEAM MEMBER**
+  - Power Bi - Filtros por município e tipo 
+ 
+- **MARIA CLARA DEMETRIO - SCRUM MASTER**
+  - Filtros por município e tipo
+  - Git Hub - desenvolvimento do projeto (backlog, tela de MVP)
+
+- **MATHEUS LUIZ - TEAM MEMBER**
+  - Limpeza de dados Phyton 
+  - Mapas de Fiscalizações
 
 ---
 
