@@ -9,6 +9,26 @@
 
 ---
 
+## 👥 Desenvolvimento de Cada Membro da Equipe
+- **FELIPE MACHADO - PRODUCT ONWER**
+  - Auxílio no desenvolvimento de todas as etapas 
+    
+- **CAUÃ KADSON - TEAM MEMBER**
+  - Gráficos Interativos Power Bi
+    
+- **GEOVANNA PIMENTEL - TEAM MEMBER**
+  - União dos dados com Pesquisa Operacional 
+ 
+- **MARIA CLARA DEMETRIO - SCRUM MASTER**
+  - Auxílio no desenvolvimento de todas as etapas
+  - Git Hub
+
+- **MATHEUS LUIZ - TEAM MEMBER**
+  - Nova limpeza de dados com foco em otimização de rotas 
+
+
+---
+
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.
 
