@@ -108,6 +108,4 @@ Esta etapa evolui o dashboard geográfico entregue na Sprint 1, adicionando a co
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)
+- PowerBI: https://app.powerbi.com/view?r=eyJrIjoiYjI1MjYzNDAtOTk5Yi00NWI0LWEzYWMtZDA5M2QyNzlmNDg2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
